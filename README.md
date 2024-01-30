@@ -20,3 +20,6 @@ The application prompts users to either log in with an existing account or sign 
 
 The code demonstrates the basic functionality of a banking application, including user authentication, account management, and transaction processing.
 Overall, the code provides a foundational structure for a simple command-line-based banking application.
+
+
+![class diagram](https://github.com/mahsahajirahimi/banking-app/assets/119732659/045aaf78-75ae-4f96-acb8-f85a5eabf97d)
