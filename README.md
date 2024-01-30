@@ -19,4 +19,4 @@ Allows users to log in or sign up, perform transactions (deposit, withdrawal, mo
 The application prompts users to either log in with an existing account or sign up for a new account. Upon successful authentication, users can perform various financial transactions and view their account details.
 
 The code demonstrates the basic functionality of a banking application, including user authentication, account management, and transaction processing.
-Overall, the code provides a foundational structure for a simple command-line-based banking application
+Overall, the code provides a foundational structure for a simple command-line-based banking application.
