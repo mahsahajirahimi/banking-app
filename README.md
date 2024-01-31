@@ -23,3 +23,9 @@ Overall, the code provides a foundational structure for a simple command-line-ba
 
 
 ![class diagram](https://github.com/mahsahajirahimi/banking-app/assets/119732659/045aaf78-75ae-4f96-acb8-f85a5eabf97d)
+![SD1](https://github.com/mahsahajirahimi/banking-app/assets/119732659/d3efd0a6-fdb9-4eaa-88e4-8dc8ce672503)
+![SD2](https://github.com/mahsahajirahimi/banking-app/assets/119732659/2ad14b62-40bc-47d0-a661-3237df73a633)
+![SD3](https://github.com/mahsahajirahimi/banking-app/assets/119732659/9ecfe8c4-9b5a-4112-bd49-c3d01040a456)
+![SD5](https://github.com/mahsahajirahimi/banking-app/assets/119732659/465b48a6-253d-4cb0-a2dc-bb9c57265672)
+![SD4](https://github.com/mahsahajirahimi/banking-app/assets/119732659/a2a9a417-95e3-47d8-8b06-0c5319af84d4)
+![SD6](https://github.com/mahsahajirahimi/banking-app/assets/119732659/dcd21f60-76a9-4b37-8f77-08c0752387f3)
